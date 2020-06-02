@@ -24,9 +24,11 @@ int main()
     for (i=0;i<n;i++){
         cin>>arr[i];
     }
-
+    
+    // looping through the array
     for(i=0;i<n;i++){
         for(j=i+1;j<n;j++){
+            // checking the condition
             if((arr[i] + arr[j]) % k == 0){
                 count += 1;
             }
