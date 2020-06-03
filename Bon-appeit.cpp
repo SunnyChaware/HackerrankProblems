@@ -1,3 +1,8 @@
+/*
+Author Sunny Chaware;
+Date 03 june 2020
+*/
+
 #include<iostream>
 #include<stdlib.h>
 #include<math.h>
